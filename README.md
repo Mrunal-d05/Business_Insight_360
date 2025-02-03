@@ -170,22 +170,18 @@ Based on the mock ups received as requirement, the team will start designing the
 
 In Home view, all the views button will be available. User will land on specific view page by clicking the button 
 
-- Info
+- Overall Report
 - Finance View
 - Sales View
 - Marketing View
 - Supply chain View
 - Executive View
-- Products
-- Support
+  
+  
 
 ## Overall Report
 
 ![Overall Report.gif](https://github.com/Mrunal-d05/Business_Insight_360/blob/main/Resources/overall%20report%20(1).gif)
-
-## Info Page
-
-![Info.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Info.gif)
 
 ## Finance View
 
@@ -204,11 +200,9 @@ In Home view, all the views button will be available. User will land on specific
 
 ## Executive View
 
-![Executive.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Executive.gif)
+![Executive.gif](https://github.com/Mrunal-d05/Business_Insight_360/blob/main/Resources/Executive.gif)
 
-## Products
 
-![Products](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Products%20View.gif)
 
 you can find the full report file here : [Report](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Report/360.pbix)
 
