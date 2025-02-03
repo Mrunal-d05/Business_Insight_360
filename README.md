@@ -181,7 +181,7 @@ In Home view, all the views button will be available. User will land on specific
 
 ## Overall Report
 
-![Overall Report.gif]
+![Overall Report.gif](https://github.com/Mrunal-d05/Business_Insight_360/blob/main/Resources/overall%20report%20(1).gif)
 
 ## Info Page
 
