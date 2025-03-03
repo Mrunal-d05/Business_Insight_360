@@ -204,7 +204,7 @@ In Home view, all the views button will be available. User will land on specific
 
 
 
-you can find the full report file here : [Report](https://github.com/Mrunald05/Business_Insight_360/blob/main/business%20insight%20360.pbix)
+you can find the full report file here : [Report](https://github.com/Mrunal d05/Business_Insight_360/blob/main/business%20insight%20360.pbix)
 
 
 ## Project Outcome
